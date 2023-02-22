@@ -1,0 +1,96 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+ }
+ 
+ .navbar{
+    
+     width:100vw;
+     height:50px;
+     margin-top: 0px;
+     display: flex;
+     justify-content: space-between;
+ }
+ 
+ ul{
+   margin-top: 15px;
+   margin-left: 200px;
+ }
+ 
+ li{
+     display: inline;
+     padding: 20px;
+     
+ }
+ li a{
+     text-decoration: none;
+ }
+ .inp{
+     margin-top: 15px;
+     margin-right: 100px;
+     border-radius: 3px;
+ 
+ }
+ .title{
+     width: 100vw;
+     height: 300px;
+ 
+     font-size: 30px;
+     
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+ .dd{
+     display: block;
+ }
+ .title p{
+     font-size: 15px;
+     margin-left: 30px;
+     
+ }
+ .title h1{
+     letter-spacing: 8px;
+ }
+ .nv{
+     
+     width: 100vw;
+     height: 50px;
+     display: flex;
+     justify-content: center;
+ }
+ .back{
+     width: 100vw;
+     height: 300px;
+     background-image: url(images/back.jpg);
+     background-size: cover;
+ }
+ .photo{
+     width: 100vw;
+     height: 400px;
+     
+     display: flex;
+     justify-content:space-evenly;
+ }
+ img{
+     height: 300px;
+     width: 480px;
+     margin-top: 50px;
+ }
+ .cls1{
+    display: flex;
+    justify-content: space-around;
+ }
+ button{
+    padding:3px 20px
+ }
+
+ .cls1{
+    margin-top: 50px;
+ }
+
+ footer{
+    text-align: center;
+    margin-top: 70px;
+ }
